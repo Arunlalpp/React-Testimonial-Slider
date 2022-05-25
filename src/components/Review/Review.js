@@ -11,19 +11,19 @@ const Review = () => {
             name: 'Rekob Ramya',
             description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s.',
             address: 'USA',
-            img: 'https://i.ibb.co/hgGJc8d/Gareth-Bale.jpg'
+            img: 'https://images.unsplash.com/photo-1541112324160-e8a425b58dac?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387'
         },
         {
             name: 'Brandon Savage',
             description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s.',
             address: 'USA',
-            img: 'https://i.ibb.co/z7Kp6yr/np-file-33188.jpg'
+            img: 'https://images.unsplash.com/photo-1548946526-f69e2424cf45?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327'
         },
         {
             name: 'Steve Burns',
             description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s.',
             address: 'USA',
-            img: 'https://i.ibb.co/CP5sj7g/2856040-58866808-2560-1440.jpg'
+            img: 'https://images.unsplash.com/photo-1548544149-4835e62ee5b3?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387'
         },
         {
             name: 'Kevin Canlas',
