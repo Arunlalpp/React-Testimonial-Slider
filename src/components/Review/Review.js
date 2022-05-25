@@ -29,7 +29,7 @@ const Review = () => {
             name: 'Kevin Canlas',
             description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s.',
             address: 'USA',
-            img: 'https://i.ibb.co/10SYccm/1552313010-354215-noticia-normal.jpg'
+            img: 'https://images.unsplash.com/flagged/photo-1559782993-f2aadc6d0831?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385'
         },
     ]
     //Owl Carousel Settings
@@ -57,8 +57,8 @@ const Review = () => {
     };
     return (
         <section id="testimonial" className="testimonials pt-70 pb-70">
-            <div className="container mt-5">
-                <h4 className="miniTitle text-center">TESTIMONIALS</h4>
+            <div className="container mt-1">
+                <h4 className="miniTitle text-center color-red">TESTIMONIALS</h4>
                 <div className="text-center ">
                     <h3 className="sectionTitle">What Our Clients are Saying?</h3>
                 </div>

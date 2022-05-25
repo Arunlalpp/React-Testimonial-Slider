@@ -16,14 +16,14 @@
   .img-circle {
     border-radius: 50%;
     vertical-align: middle;
-    max-width: 30%;
+    height: 10rem;
+    max-width: 10rem;
     border: solid 4px #ffff;
-    /* min-height: 50%; */
     transform-style: preserve-3d;
     margin: 0 auto 17px;
   }
   #customer-testimonoals {
-    margin-top: 6%;
+    margin-top: 1%;
   }
   .testimonial-name {
     margin: -17px auto 0;
